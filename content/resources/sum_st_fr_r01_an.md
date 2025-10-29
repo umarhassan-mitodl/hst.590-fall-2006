@@ -4,8 +4,6 @@ description: This resource contains information about summary statement.
 file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/91da44e7904285b30ff2e1e978e38a86_sum_st_fr_r01_an.pdf
 file_size: 97421
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

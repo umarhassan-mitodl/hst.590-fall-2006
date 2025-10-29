@@ -4,8 +4,6 @@ description: This resource contains a checklist for the CV workshop assignment.
 file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/cb9c5e22140254b2bc6779c6e85f1e9e_ses01_last.pdf
 file_size: 90383
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

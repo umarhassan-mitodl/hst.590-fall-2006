@@ -5,8 +5,6 @@ description: This resource contain information about writing a faculty personnel
 file: /courses/hst-590-biomedical-engineering-seminar-series-developing-professional-skills-fall-2006/3b6bf2b2a995f246ca2fc002770a57c0_fpr_nov_21_04.pdf
 file_size: 87160
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
