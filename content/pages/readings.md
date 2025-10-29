@@ -23,13 +23,13 @@ READINGS
 C.V.
 {{< tdclose >}}{{< tdopen >}}
 
-[The Basics of Science C.V.'s](http://chronicle.com/article/The-Basics-of-Science-CVs/46275/)     
+{{% resource_link "10c77915-16df-4b58-b0aa-8fd5acb6b0b7" "The Basics of Science C.V.'s" %}}     
 Interesting article with practical tips.
 
-[How to Craft a Winning Resume](https://www.sciencemag.org/careers/how-craft-winning-r%C3%A9sum%C3%A9)     
+{{% resource_link "9a3c0814-2867-4f8c-97f7-f6b2c9a98c49" "How to Craft a Winning Resume" %}}     
 From the Science Careers Web site. This link leads you to a series of articles about science C.V.'s.
 
-[MGH C.V. Guidelines](https://www.massgeneral.org/faculty-development/promotion-cv)     
+{{% resource_link "c9327988-65d8-4f60-8598-f9014ea7beda" "MGH C.V. Guidelines" %}}     
 C.V. preparation, format and tips from MGH. Also links to other communications guidelines.
 
 MIT C.V. Example ({{% resource_link "3b6bf2b2-a995-f246-ca2f-c002770a57c0" "PDF" %}})
@@ -40,20 +40,20 @@ MIT C.V. Example ({{% resource_link "3b6bf2b2-a995-f246-ca2f-c002770a57c0" "PDF"
 Interviews
 {{< tdclose >}}{{< tdopen >}}
 
-[Articles](https://web.archive.org/web/20161222022509/https://www.training.nih.gov/assets/Preparing_for_Academic_Interviews_Handout.pdf)     
+{{% resource_link "c443c754-c8e1-4de3-8ac5-2f8fb1aed872" "Articles" %}}     
 This page provides links to numerous articles with tips and advice on the interview process for academic positions.
 
-[Job Search: Tech Careers](http://jobsearchtech.about.com/od/yourjobsearch/)
+{{% resource_link "2ec3555b-71bf-4a15-85a6-632f8049454f" "Job Search: Tech Careers" %}}
 
-[Career Journal](http://www.careerjournal.com/jobhunting/interviewing/)
+{{% resource_link "a23059ea-9e04-4a4f-9344-27a982415a0f" "Career Journal" %}}
 
-[TFPL Interview Tips](https://www.glassdoor.com/Interview/The-TFPL-Interview-Questions-E7167958.htm)
+{{% resource_link "c1bca594-a38a-45a8-9e3b-47866adb99ec" "TFPL Interview Tips" %}}
 
-[monster.com Interview Tips](http://career-advice.monster.com/job-interview/Interview-Preparation/Job-Interview-Pointers-Fogarty/article.aspx)
+{{% resource_link "b3183a39-5017-47b8-8d26-d92efa3efedc" "monster.com Interview Tips" %}}
 
-[U Michigan Interview Tips for Engineers](http://www.hr.umich.edu/empserv/department/empsel/basiccomp.html)
+{{% resource_link "9154b4d7-d007-43ca-9e6a-30d1f6a78d53" "U Michigan Interview Tips for Engineers" %}}
 
-[Engineers International](https://www.engineersnutbolt.com/)
+{{% resource_link "47c277ee-5608-4c16-bee3-6b348d4b9b08" "Engineers International" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -61,28 +61,28 @@ This page provides links to numerous articles with tips and advice on the inte
 Job Talks
 {{< tdclose >}}{{< tdopen >}}
 
-[Chronicle of Higher Education](http://chronicle.com/article/Giving-a-Job-Talk-in-the-Sc/45375/)     
+{{% resource_link "2a077f0e-9257-4024-bf00-1fe858c51e9c" "Chronicle of Higher Education" %}}     
 Tips for Job Talks.
 
-[Science Careers](https://www.sciencemag.org/careers)     
+{{% resource_link "b9c4a873-fde2-4c3d-8c53-47a82be6513e" "Science Careers" %}}     
 AAAS Science job talks tips.
 
-[Michael Earnst in CSAIL](http://homes.cs.washington.edu/~mernst/advice/academic-job.html)     
+{{% resource_link "22b91157-719d-4b06-a2a9-c7542624527e" "Michael Earnst in CSAIL" %}}     
 Tips from Michael Earnst.
 
-[NIH Tips](http://www.training.nih.gov/careers/careercenter/advice.html)     
+{{% resource_link "1e56cad9-7dff-4464-a447-484b0bf6bd90" "NIH Tips" %}}     
 On Job search.
 
-[Job Search Tips](http://people.mills.edu/spertus/job-search/job.html)     
+{{% resource_link "7c8d2e04-6cb3-4fb7-b862-8ec988cb6ee1" "Job Search Tips" %}}     
 From MIT alum Ellen Spertus.
 
-[PhD.org](https://www.above.com/marketplace/phd.org)     
+{{% resource_link "d272d5c6-89d7-4656-ba66-d8074c2993ad" "PhD.org" %}}     
 Collection of resources on communication from PhD.org.
 
-[Brown University](http://www.sigmod.org/publications/sigmod-record/0112/career-intro.html)     
+{{% resource_link "ccffcf53-d9f6-43b3-b918-588db44321f6" "Brown University" %}}     
 Tips from the CS department at Brown.
 
-[UC Davis](http://www.ucdavis.edu/index.html)
+{{% resource_link "62dbc536-73cd-45e4-8f0a-a32086682b94" "UC Davis" %}}
 
 Reading Collection     
 This collection contains advice and further reading references for job searches.
@@ -93,20 +93,20 @@ This collection contains advice and further reading references for job searches.
 Grant Writing
 {{< tdclose >}}{{< tdopen >}}
 
-[Grant Doctor](https://www.sciencemag.org/author/grant-doctor)     
+{{% resource_link "aebd3f68-edf3-4f8e-8092-995201f75749" "Grant Doctor" %}}     
 General information about writing grants.
 
-[NIH Grant Tutorial Web site](http://www.nlm.nih.gov/ep/Tutorial.html)
+{{% resource_link "2a43a233-8c48-478b-9848-66acf2b41834" "NIH Grant Tutorial Web site" %}}
 
-[Sample Annotated NIH Grant on the NIH Web site](http://www.niaid.nih.gov/researchfunding/grant/pages/appsamples.aspx)
+{{% resource_link "00fb11f8-8caa-40ad-98e0-ce51973d5868" "Sample Annotated NIH Grant on the NIH Web site" %}}
 
-[National Science Foundation Grant Proposal Guide](http://www.nsf.gov/pubs/2001/nsf012/toc.html)
+{{% resource_link "76d6ac66-a3ff-4ff4-a673-8979d6eb6575" "National Science Foundation Grant Proposal Guide" %}}
 
-[Howard Hughes Medical Institute: Grants for Science Education](http://www.hhmi.org/grants/)
+{{% resource_link "be65ab2d-b4bf-4f34-a8d1-578d6e0f17b5" "Howard Hughes Medical Institute: Grants for Science Education" %}}
 
-[Bill and Melinda Gates Foundation: Grant Information](http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities)
+{{% resource_link "cc5a85db-310e-4683-ac42-aa3e967e6165" "Bill and Melinda Gates Foundation: Grant Information" %}}
 
-[DARPA Contracts Management Office](https://www.darpa.mil/work-with-us/contract-management)     
+{{% resource_link "74296a97-8114-4e44-9e0c-fbeeabff51f3" "DARPA Contracts Management Office" %}}     
 This page provides information and resources on how to apply for grants or pursue contracts with DARPA.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -115,10 +115,10 @@ This page provides information and resources on how to apply for grants or pursu
 Industry Perspectives
 {{< tdclose >}}{{< tdopen >}}
 
-[TechnologyReview.com](http://www.technologyreview.com/)
+{{% resource_link "ea298e55-54de-4ed1-8a20-bfa30091b7a9" "TechnologyReview.com" %}}
 
-[MIT Video](http://video.mit.edu/), a free and open site that provides on-demand video of significant public events at MIT. This site often has information about industry-related innovations in science and medicine.
+{{% resource_link "30ac1fb3-eff6-4f30-a02b-15268fa005f3" "MIT Video" %}}, a free and open site that provides on-demand video of significant public events at MIT. This site often has information about industry-related innovations in science and medicine.
 
-[MIT Industrial Liaison Program](http://ilp.mit.edu/)
+{{% resource_link "b9fc5792-3b03-4bf9-b586-f566897d0716" "MIT Industrial Liaison Program" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
